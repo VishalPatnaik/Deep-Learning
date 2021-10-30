@@ -1,10 +1,11 @@
+# Deep Learning
 
-### Specialization Completion Certificate
+## Specialization Completion Certificate
 
 <p align="center"><img width="100%" src="DeepLearning.PNG" /></p>
 
 --------------------------------------------------------------------------------
-### 1. Neural Network and Deep Learning
+## 1. Neural Network and Deep Learning
 * Week 1
 	* [Quiz 1 - Introduction to deep learning](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/1%20Neural%20Networks%20and%20Deep%20Learning/Week1/Introduction%20to%20deep%20learning/week1%20quiz.md)
 	* [Building your Deep Neural Network: Step by Step](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/1%20Neural%20Networks%20and%20Deep%20Learning/Week1/Introduction%20to%20deep%20learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
@@ -57,7 +58,7 @@
 			1. Building and applying a deep neural network to supervised learning.
 
 
-### 2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
+## 2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
 * Week 1
 	* [Quiz 1 - Practical aspects of deep learning](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/2%20Improving%20Deep%20Neural%20Networks/Week1/week1%20quiz.md)
 	* [Initialization](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/2%20Improving%20Deep%20Neural%20Networks/Week1/Initialization/Initialization.ipynb)
@@ -81,14 +82,14 @@
 	* [Quiz 3 - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/2%20Improving%20Deep%20Neural%20Networks/Week3/week3%20quiz.md) 
 	* [Tensorflow](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/2%20Improving%20Deep%20Neural%20Networks/Week3/Tensorflow/Tensorflow%2BTutorial%2Bv3a.ipynb)
 
-### 3. Structuring Machine Learning Projects
+## 3. Structuring Machine Learning Projects
 * Week 1
 	* [Quiz 1 - Bird recognition in the city of Peacetopia (case study)](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/3%20Structuring%20Machine%20Learning%20Projects/Week1/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
 
 * Week 2
 	* [Quiz 2 - Autonomous driving (case study)](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/3%20Structuring%20Machine%20Learning%20Projects/Week2/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
-### 4. Convolutional Neural Network
+## 4. Convolutional Neural Network
 * Week 1
 	* [Quiz 1 - The basics of ConvNets](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/4%20Convulutional%20Neural%20Networks/Week1/week1%20quiz.md)
 	* [Convolutional Neural Networks: Application](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/4%20Convulutional%20Neural%20Networks/Week1/Convulutional%20Model/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
@@ -132,7 +133,7 @@
 			
 			3. Use these encodings to perform face verification and face recognition
 
-### 5. Sequence Models
+## 5. Sequence Models
 * Week 1
 	* [Quiz 1 - Recurrent Neural Networks](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/5%20Sequence%20Models/Week1/week1%20quiz.md)
 	* [Building a Recurrent Neural Network - Step by Step](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/5%20Sequence%20Models/Week1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
