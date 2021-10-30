@@ -1,4 +1,8 @@
 
+### Specialization Completion Certificate
+
+<p align="center"><img width="100%" src="DeepLearning.PNG" /></p>
+
 --------------------------------------------------------------------------------
 ### 1. Neural Network and Deep Learning
 * Week 1
@@ -128,9 +132,7 @@
 
 <br/>
 
-### Specialization Completion Certificate
-
-<p align="center"><img width="100%" src="DeepLearning.PNG" /></p>
+--------------------------------------------------------------------------------
 
 ### Author
 Viahal Patnaik/ [@VISHAL](https://github.com/VishalPatnaik)
