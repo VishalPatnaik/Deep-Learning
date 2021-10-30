@@ -9,9 +9,11 @@
 	* [Quiz 1 - Introduction to deep learning](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/1%20Neural%20Networks%20and%20Deep%20Learning/Week1/Introduction%20to%20deep%20learning/week1%20quiz.md)
 	* [Building your Deep Neural Network: Step by Step](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/1%20Neural%20Networks%20and%20Deep%20Learning/Week1/Introduction%20to%20deep%20learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
 		Outcomes:
-			* Use non-linear units like ReLU to improve your model
-			* Build a deeper neural network (with more than 1 hidden layer)
-			* Implement an easy-to-use neural network class
+			1. Use non-linear units like ReLU to improve your model
+			
+			2. Build a deeper neural network (with more than 1 hidden layer)
+			
+			3. Implement an easy-to-use neural network class
 
 * Week 2
 	* [Quiz 2 - Neural Network Basics](https://github.com/VishalPatnaik/Deep-Learning/blob/main/Deep%20Learning/1%20Neural%20Networks%20and%20Deep%20Learning/Week2/Neural%20Networks%20Basics/week2%20quiz.md)
