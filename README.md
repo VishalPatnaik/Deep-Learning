@@ -131,7 +131,7 @@
 
 ### Specialization Completion Certificate
 
-![Deep Learning](Deep Learning.PNG)
+![Deep Learning](DeepLearning.PNG)
 
 ### Author
 Viahal Patnaik/ [@VISHAL](https://github.com/VishalPatnaik)
