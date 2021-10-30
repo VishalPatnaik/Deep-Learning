@@ -1,4 +1,3 @@
-<p align="center"><img width="40%" src="logo/deeplearning-ai.png" /></p>
 
 --------------------------------------------------------------------------------
 ### 1. Neural Network and Deep Learning
@@ -131,7 +130,7 @@
 
 ### Specialization Completion Certificate
 
-![Deep Learning](DeepLearning.PNG)
+<p align="center"><img width="40%" src="DeepLearning.PNG" /></p>
 
 ### Author
 Viahal Patnaik/ [@VISHAL](https://github.com/VishalPatnaik)
